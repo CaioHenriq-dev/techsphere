@@ -9,12 +9,12 @@ body {
 }
 
 a {
-  color: #149ddd;
+  color: #619ba3;
   text-decoration: none;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #59d4d4;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #149ddd;
+  background: #131212;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -46,12 +46,12 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: #dddddd;
   line-height: 0;
 }
 
 .back-to-top:hover {
-  background: #2eafec;
+  background: #5a5b5c;
   color: #fff;
 }
 
@@ -73,7 +73,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #040b149d;
   overflow-y: auto;
 }
 
@@ -116,7 +116,7 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background: #14d6dd;
   color: #fff;
   text-decoration: none;
 }
@@ -170,7 +170,7 @@ h6 {
 .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #a8a9b4;
+  color: #8c8c8f;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -181,7 +181,7 @@ h6 {
 .nav-menu a:focus i {
   font-size: 24px;
   padding-right: 8px;
-  color: #6f7180;
+  color: #619ba3;
 }
 
 .nav-menu a:hover,
@@ -189,14 +189,14 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   text-decoration: none;
-  color: #fff;
+  color: #dfdfdf;
 }
 
 .nav-menu a:hover i,
 .nav-menu .active i,
 .nav-menu .active:focus i,
 .nav-menu li:hover>a i {
-  color: #149ddd;
+  color: #11d1d8;
 }
 
 /* Mobile Navigation */
@@ -319,7 +319,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #1f9ea7;
 }
 
 .section-title h2::after {
@@ -328,7 +328,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #051116;
   bottom: 0;
   left: 0;
 }
@@ -343,7 +343,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #2884a8;
 }
 
 .about .content ul {
@@ -387,7 +387,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #14d0dd;
   float: left;
   line-height: 0;
 }
@@ -406,7 +406,7 @@ section {
   margin: 0 0 0 60px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-  color: #122f57;
+  color: #050607;
 }
 
 .facts .count-box a {
@@ -424,7 +424,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -457,7 +457,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #149ddd;
+  background-color: #1bb7bd;
 }
 
 /*--------------------------------------------------------------
